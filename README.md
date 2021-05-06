@@ -17,7 +17,7 @@ If you'd like to share a tool you come across, here's how to do it.
 
 - Type the name of the tool, example Annie on the Wiki. 
 - Use link the name of the tool back to the page you have just created 
-![Screen Grab](Screen Grab of how to create links on Markdown.png)
+![Screen Grab](Desktop/Screen Grab of how to create links on Markdown.png)
 
 Every tool should be it's own entry in the Wiki.
 
