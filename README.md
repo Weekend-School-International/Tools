@@ -16,11 +16,13 @@ If you'd like to share a tool you come across, here's how to do it.
 2. Link this page back to the [Wiki](https://github.com/Weekend-School-International/Tools/wiki). 
 
 - Type the name of the tool, example Annie on the Wiki. 
-- Use link the name of the tool back to the page you have just created 
+- Use link the name of the tool back to the page you have just created: 
 
-![Screen Grab of how to create links on Markdown](https://user-images.githubusercontent.com/12387441/117384561-db19b080-af15-11eb-8ec2-483de56ce23c.png)
+> ![Screen Grab of how to create links on Markdown](https://user-images.githubusercontent.com/12387441/117384561-db19b080-af15-11eb-8ec2-483de56ce23c.png)
 
 
-Every tool should be it's own entry in the Wiki.
+3. Format
 
-Please include a short blurb on the usage of the tool and the relevant link to apply for the free/discounted usage
+
+- Every tool should be it's own entry in the Wiki.
+- Every page should include a. a short description of the tool b. how to apply for the free/discounted accounts
